@@ -1,4 +1,4 @@
-#Tiny Mapping
+# Tiny Mapping
 Minimal implementation of point cloud mapping.
 
 ## Dependency
